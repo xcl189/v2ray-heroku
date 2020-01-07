@@ -32,7 +32,7 @@
     },
     "streamSettings": {
       "network": "ws",
-      "security": "tls",
+      "security": "chacha20-poly1305",
       "tlsSettings": {
         "allowInsecure": true,
         "serverName": null
