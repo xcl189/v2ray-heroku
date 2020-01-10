@@ -8,4 +8,4 @@ applications:
      GOPACKAGENAME: github.com/xuiv/v2ray-heroku
 properties:
   logger_endpoint:
-    port: 8443
+    port: 8080
